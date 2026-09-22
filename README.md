@@ -1,5 +1,3 @@
-# elphizu
-
 software engineer.
 
 > i build things, break things, and figure out why.
